@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-manzil&show_icons=true&locale=en" alt="its-manzil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-manzil&" alt="its-manzil" /></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-manzil/its-manzil/output/github-snake-dark.svg" />
